@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobs.createAdvertisement_2.Disabled": "true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=project3nano;AccountKey=fg7kHdPVCAxBlsToUds8Ox9JPTZL3U0kQ1aw5HDP0iardL05x6euu91nZDjAe87tfEKwHv17D+jF+ASt8fCpGQ==;EndpointSuffix=core.windows.net"
+    }
+}
